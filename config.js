@@ -16,10 +16,10 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL', ''] // ganti jadi group lu
-global.owner = ['6285212023766'] // Put your number here //owner eval
-global.kontak = ['6285212023766','0'] //Ketika ada yang ngetik #owner
-global.mods = ['6285212023766'] // Want some help?
-global.prems = ['6285212023766'] // Premium user has unlimited limit
+global.owner = ['+62 858‑2876‑4046'] // Put your number here //owner eval
+global.kontak = ['+62 858‑2876‑4046','0'] //Ketika ada yang ngetik #owner
+global.mods = ['+62 858‑2876‑4046'] // Want some help?
+global.prems = ['+62 858‑2876‑4046'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -63,14 +63,14 @@ namakontak2 = 'Hyzer..'
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By hyzerbot' // ganti aja
+global.packname = 'By Botynyakamu' // ganti aja
 global.author = 'i love u so <3' // ganti aja
 
 //yyy
-bc = 'King Of Bear' //King Of Bear Broadcast
-footer = '\nHyzer'
-namabot = 'Hyzer-Botz'
-namalu = 'Hyzer'
+bc = 'botynyakamu' //Bot Broadcast
+footer = '\nBotynyakamu'
+namabot = 'Botynyakamu'
+namalu = 'Botynyakamu-owner'
 
 
 // 

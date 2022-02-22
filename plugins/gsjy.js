@@ -255,10 +255,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┃✾ Script by Lord Hyzer愛
 ┃✾ Github Name : https://github.com/Hyzerr
 ┃✾ IG Owner : shiroo_craziiphat
-┃✾ スパムしないでください
-┃✾ by : Shiro
+┃✾ *スパムしないでください*
 ┗━━━━━━━━⬣`.trim(),
-          "buttonText": "KLIK DISINI>.<",
+          "buttonText": "KLIK DISINI",
           "listType": "SINGLE_SELECT",
           "sections": [
             {

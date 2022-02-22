@@ -31,7 +31,7 @@ let handler  = async (m, { conn, usedPrefix }) => {
 
 ═ 〘 DONASI 〙 ═
 ➥ Saweria : https://saweria.co/raraharsita2
-➥ Dana: [0882-7926-8363]
+➥ Dana: [0852-1202-3766]
 
 
 ➥ Request? https://www.youtube.com/channel/UCVSEzfCh6VYL3g9ixHnSqXQ
@@ -39,17 +39,17 @@ let handler  = async (m, { conn, usedPrefix }) => {
 Official Grup :
 
 Grup 1 :
-https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL
+https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV
 
 Grup 2 :
-https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL
+https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV
 
 Grup 3 :
-https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL
+https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV
 
 
  ©BaseNew ${namabot}
- Script original by King Of Bear
+ Script original by Hyzer愛
  
  
 ═〘 ${namabot} 〙 ═

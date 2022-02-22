@@ -67,8 +67,8 @@ global.packname = 'By Shiro bot' // ganti aja
 global.author = 'hehe' // ganti aja
 
 //yyy
-bc = 'botynyakamu' //Bot Broadcast
-footer = '\n© Shiro Botz'
+bc = 'Hyzer' //Hyzer Broadcast
+footer = '\n©Lord Hyzer愛'
 namabot = 'Shiro Botz'
 namalu = 'Hyzer愛'
 

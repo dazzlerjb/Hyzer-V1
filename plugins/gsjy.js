@@ -36,7 +36,7 @@ const defaultMenu = {
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
-	let bzz = fs.readFileSync('./vn/ara-nabila')
+	let bzz = fs.readFileSync('./vn/aaa')
 	let bzz2 = fs.readFileSync('./vn/AUD-20220214-WA0408')
 	let { anon, anticall, antispam, antitroli, backup, jadibot, groupOnly, nsfw } = global.db.data.settings[conn.user.jid]
     let totaljadibot = [...new Set([...global.conns.filter(conn => conn.user && conn.state !== 'close').map(conn => conn.user)])]

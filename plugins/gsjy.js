@@ -8,7 +8,7 @@ const chats = conn.chats.all()
 const groups = chats.filter(v => v.jid.endsWith('g.us'))
 const defaultMenu = {
   before: `
-┏━━━ꕥ〔 *WlsBotz* 〕ꕥ━⬣
+┏━━━ꕥ〔 *ShiroBotz* 〕ꕥ━⬣
 ┃✾ Hai, %name!
 ┃
 ┃✾ Tersisa *%limit Limit*
@@ -26,17 +26,17 @@ const defaultMenu = {
 ┃✾ Uptime: *%uptime (%muptime)*
 ┃✾ Database: %rtotalreg dari %totalreg
 ┃✾ Instagram:
-┃✾ wls_chanel
+┃✾ shiroo_craziiphat
 ┗━━━━━━ꕥ`.trimStart(),
   header: '┏━━ꕥ〔 *%category* 〕ꕥ━⬣',
   body: '┃✾%cmd %islimit %isPremium',
   footer: '┗━ꕥ\n',
   after: `
-*WlsBotz@^%version*
+*ShiroBotz@^%version*
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
-	let bzz = fs.readFileSync('./vn/ara-nabila')
+	let bzz = fs.readFileSync('./vn/ara-nabila.mp3')
 	let bzz2 = fs.readFileSync('./vn/AUD-20220214-WA0408')
 	let { anon, anticall, antispam, antitroli, backup, jadibot, groupOnly, nsfw } = global.db.data.settings[conn.user.jid]
     let totaljadibot = [...new Set([...global.conns.filter(conn => conn.user && conn.state !== 'close').map(conn => conn.user)])]
@@ -242,7 +242,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
         "listMessage": {
           "title": `${ucapan()}, ${name}`.trim(),
           "description": `
-┏━━ꕥ〔 *WlsBotz* 〕ꕥ━⬣
+┏━━ꕥ〔 *ShiroBotz* 〕ꕥ━⬣
 ┃✾ Aktif selama ${uptime}
 ┃✾ Baterai ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 pengisian' : ''}` : 'tidak diketahui'}
 ┃✾ *${Object.keys(global.db.data.users).length}* Pengguna
@@ -254,7 +254,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┏━ꕥ
 ┃✾ Script by Lord Hyzer愛
 ┃✾ Github Name : https://github.com/Hyzerr
-┃✾ IG Owner : wls_chanel
+┃✾ IG Owner : shiroo_craziiphat
 ┃✾ *スパムしないでください*
 ┗━━━━━━━━⬣`.trim(),
           "buttonText": "KLIK DISINI",

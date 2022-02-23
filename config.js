@@ -15,11 +15,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/GaI0UsCiC9G5A6Z7S8mXla', ''] // ganti jadi group lu
-global.owner = ['6285772240582'] // Put your number here //owner eval
-global.kontak = ['6285772240582','0'] //Ketika ada yang ngetik #owner
-global.mods = ['6285772240582'] // Want some help?
-global.prems = ['6285772240582'] // Premium user has unlimited limit
+global.linkGC = ['https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV', ''] // ganti jadi group lu
+global.owner = ['6285212023766'] // Put your number here //owner eval
+global.kontak = ['6285212023766','082361160044'] //Ketika ada yang ngetik #owner
+global.mods = ['6285212023766'] // Want some help?
+global.prems = ['6285212023766'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -54,8 +54,8 @@ leyskey = 'dappakntlll'
 bearkey = 'buy'
 
 //xteam        MIMINETBOT
-namaig = 'https://instagram.com/drak_ipul123'
-namagithub = 'GAK ADA :)'
+namaig = 'https://instagram.com/shiroo_craziiphat'
+namagithub = 'https://github.com/Hyzerr'
 kasihcaption = `Nih kak`
 namakontak1 = 'Hyzer.'
 namakontak2 = 'Hyzer..'
@@ -63,14 +63,14 @@ namakontak2 = 'Hyzer..'
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By WlsBotz' // ganti aja
+global.packname = 'By ShiroBotz' // ganti aja
 global.author = 'hehe' // ganti aja
 
 //yyy
-bc = 'WlsBotz' //WlsBotz Broadcast
-footer = '\n©WlsBotz'
-namabot = 'WlsBotz'
-namalu = 'WlsGt'
+bc = 'ShiroBotz' //ShiroBotz Broadcast
+footer = '\n© Shiro Botz'
+namabot = 'ShiroBotz'
+namalu = 'Hyzer'
 
 
 // 

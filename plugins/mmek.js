@@ -30,26 +30,26 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ➥ *Uptime:* ${uptime}
 
 ═ 〘 DONASI 〙 ═
-➥ Saweria : https://saweria.co/raraharsita2
-➥ Dana: [0852-1202-3766]
+➥ Gopay : _ke pm aja_
+➥ Pulsa: [085772240582]
 
 
-➥ Request? https://www.youtube.com/channel/UCVSEzfCh6VYL3g9ixHnSqXQ
+➥ Request? https://youtube.com/channel/UCntpfVXFFPeSadmqjEQOODg
 
 Official Grup :
 
 Grup 1 :
-https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV
+https://chat.whatsapp.com/GaI0UsCiC9G5A6Z7S8mXla
 
 Grup 2 :
-https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV
+https://chat.whatsapp.com/GaI0UsCiC9G5A6Z7S8mXla
 
 Grup 3 :
-https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV
+https://chat.whatsapp.com/GaI0UsCiC9G5A6Z7S8mXla
 
 
  ©BaseNew ${namabot}
- Script original by Hyzer愛
+ Script original by Dazzler愛
  
  
 ═〘 ${namabot} 〙 ═

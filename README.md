@@ -11,12 +11,11 @@ Simple Rpg WhatsApp Bot v18
 <a href="https://github.com/saipulanuar/v18/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/saipulanuar/v18?label=PullRequest&color=red&style=flat-square"></a>
 
 ## Join Group Diskusi
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EEuvxqQuv4bGsjrTttzFz8) 
-**NO BOT**
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV) 
 
 ## Deploy to heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saipulanuar/v18)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hyzerr/Hyzer-V1)
 
 Heroku Buildpack
 | BuildPack | LINK |
@@ -35,8 +34,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/saipulanuar/v18
-cd v18
+git clone https://github.com/Hyzerr/Hyzer-V1
+cd Hyzer-V1
 npm install
 npm update
 ```
@@ -50,8 +49,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/saipulanuar/v18
-cd v18
+git clone https://github.com/Hyzerr/Hyzer-V1
+cd Hyzer-V1
 npm install
 npm update
 ```
